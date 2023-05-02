@@ -3,48 +3,313 @@
         "id": 1,
         "name": "John Doe",
         "yearsOfExperience": 10,
+        "descriptions": "John Doe is a seasoned chef with over 10 years of experience. She has a passion for creating unique dishes that incorporate fresh, local ingredients.",
         "numberOfRecipes": 50,
         "likes": 100,
-        "image": "chef1.jpg"
+        "image": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-holds-wooden-spoon-puts-hand-waist-isolated-pink-wall-with-copy-space_141793-33208.jpg?w=900&t=st=1683027516~exp=1683028116~hmac=3e6ffcc26c2aa53a81032bd36e49296f135690674504555fa86463828a29e7af",
+        "recipes": [
+            {
+                "id": 1,
+                "chefId": 1,
+                "name": "Grilled Salmon with Lemon Butter",
+                "ingredients": [
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter",
+                    "2 tbsp. lemon juice",
+                    "1 clove garlic, minced",
+                    "1/4 tsp. salt",
+                    "1/4 tsp. black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter. Stir in lemon juice, garlic, salt, and pepper. \n3. Brush salmon with butter mixture. \n4. Place salmon on grill, skin side down. Grill for 5-6 minutes per side, or until cooked through. \n5. Serve with extra lemon butter sauce, if desired.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "chefId": 1,
+                "name": "Pesto Pasta with Roasted Tomatoes",
+                "ingredients": [
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1/4 cup grated parmesan cheese",
+                    "Salt and pepper to taste"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes for 20-25 minutes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside. \n5. In a large skillet, heat 1 tbsp. olive oil over medium heat. Add garlic and sauté for 1-2 minutes, or until fragrant. \n6. Add cooked pasta, roasted tomatoes, pesto, and parmesan cheese to the skillet. Toss to combine. \n7. Serve immediately.",
+                "rating": 4.2,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "chefId": 1,
+                "name": "Steak with Chimichurri Sauce",
+                "ingredients": [
+                    "1 lb. flank steak",
+                    "1 cup fresh parsley leaves",
+                    "1/ fresh parsley"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 3.5,
+                "isFavorite": true
+            }
+        ]
     },
     {
         "id": 2,
         "name": "Jane Smith",
         "yearsOfExperience": 8,
+        "descriptions": "Jane Smith is a seasoned chef with over 8 years of experience. She has a passion for creating unique dishes that incorporate fresh, local ingredients.",
         "numberOfRecipes": 40,
         "likes": 90,
-        "image": "chef2.jpg"
+        "image": "https://img.freepik.com/free-photo/pleased-young-male-cook-wearing-chef-uniform-glasses-holding-out-hand-isolated-pink-wall_141793-78422.jpg?w=900&t=st=1683027563~exp=1683028163~hmac=807b1af6bc9b12c7355e49fa36c2db5ad03463d939198107cfc3b8e8985ca7da",
+        "recipes": [
+            {
+                "id": 1,
+                "chefId": 2,
+                "name": "Grilled Salmon with Lemon Butter",
+                "ingredients": [
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter",
+                    "2 tbsp. lemon juice"
+                ],
+                "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter. Stir in lemon juice, garlic, salt, and pepper. \n3. Brush salmon with butter mixture. \n4.",
+                "rating": 5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "chefId": 2,
+                "name": "Pesto Pasta with Roasted Tomatoes",
+                "ingredients": [
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes for 20-25 minutes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside. \n5. In a large skillet, heat 1 tbsp. olive oil over medium heat.",
+                "rating": 4,
+                "isFavorite": false
+            },
+            {
+                "id": 3,
+                "chefId": 2,
+                "name": "Steak with Chimichurri Sauce",
+                "ingredients": [
+                    "1 lb. flank steak",
+                    "1 cup fresh parsley leaves",
+                    "1/ fresh parsley"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 3.5,
+                "isFavorite": true
+            }
+        ]
     },
     {
         "id": 3,
         "name": "Mark Johnson",
         "yearsOfExperience": 12,
+        "descriptions": "Mark Johnson is a seasoned chef with over 12 years of experience. She has a passion for creating unique dishes that incorporate fresh, local ingredients.",
         "numberOfRecipes": 60,
         "likes": 110,
-        "image": "chef3.jpg"
+        "image": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-withfinger-side-looking-camera-with-confident-expression-standing-pink-background_141793-21071.jpg?w=996&t=st=1683027596~exp=1683028196~hmac=47759a7146bc1e74e51d506657f2341e6a892aab99c619f4dc442c83173e2dec",
+        "recipes": [
+            {
+                "id": 1,
+                "chefId": 3,
+                "name": "Grilled Salmon",
+                "ingredients": [
+                    "2 tbsp. lemon juice",
+                    "1 clove garlic, minced",
+                    "1/4 tsp. salt",
+                    "1/4 tsp. black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter. Stir in lemon juice, garlic, salt, and pepper.\n5. Serve with extra lemon butter sauce, if desired.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "chefId": 3,
+                "name": "Pesto Pasta with Roasted Tomatoes",
+                "ingredients": [
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 4.5,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "chefId": 3,
+                "name": "Steak",
+                "ingredients": [
+                    "1 lb. flank steak",
+                    "1 cup fresh parsley leaves",
+                    "1/ fresh parsley"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 5,
+                "isFavorite": true
+            }
+        ]
     },
     {
         "id": 4,
         "name": "Mary Brown",
+        "recipe_name": "Crème Brûlée",
         "yearsOfExperience": 6,
+        "descriptions": "Mary Brown is a seasoned chef with over 6 years of experience. She has a passion for creating unique dishes that incorporate fresh, local ingredients.",
         "numberOfRecipes": 30,
         "likes": 80,
-        "image": "chef4.jpg"
+        "image": "https://img.freepik.com/free-photo/pleased-middle-aged-male-cook-chef-uniform-holding-knife-crossing-hands-yellow-wall_141793-36921.jpg?w=900&t=st=1683027631~exp=1683028231~hmac=4ca5bb0d28b45f67255c9387a648bb4e87239490ccba70d481725b0aea535cbb",
+        "recipes": [
+            {
+                "id": 1,
+                "chefId": 4,
+                "name": "Salmon",
+                "ingredients": [
+                    "2 tbsp. lemon juice",
+                    "1/4 tsp. black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter. Stir in lemon juice, garlic, salt, and pepper.\n5. Serve with extra lemon butter sauce, if desired.",
+                "rating": 5,
+                "isFavorite": true
+            },
+            {
+                "id": 2,
+                "chefId": 4,
+                "name": "Pesto Pasta with Roasted Tomatoes",
+                "ingredients": [
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 3,
+                "chefId": 4,
+                "name": "Steak",
+                "ingredients": [
+                    "1 lb. flank steak",
+                    "1 cup fresh parsley leaves",
+                    "1/ fresh parsley"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 4,
+                "isFavorite": true
+            }
+        ]
     },
     {
         "id": 5,
         "name": "Tom Wilson",
         "yearsOfExperience": 14,
+        "descriptions": "Tom Wilson is a seasoned chef with over 14 years of experience. She has a passion for creating unique dishes that incorporate fresh, local ingredients.",
+        "recipe_name": "Cathy Chen",
         "numberOfRecipes": 70,
         "likes": 120,
-        "image": "chef5.jpg"
+        "image": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-pointing-with-hands-side-isolated-pink-wall_141793-101270.jpg?w=900&t=st=1683027726~exp=1683028326~hmac=212f70aad6caa00b3dcc4862040688fca84f5059590941c3a8915a9b5eca3bee",
+        "recipes": [
+            {
+                "id": 1,
+                "chefId": 5,
+                "name": "Salmon",
+                "ingredients": [
+                    "2 tbsp. lemon juice",
+                    "1/4 tsp. black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter.  Serve with extra lemon butter sauce, if desired.",
+                "rating": 5,
+                "isFavorite": true
+            },
+            {
+                "id": 2,
+                "chefId": 5,
+                "name": "Pesto Pasta with Roasted Tomatoes",
+                "ingredients": [
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 3.5,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "chefId": 5,
+                "name": "Steak flank",
+                "ingredients": [
+                    "1 lb. flank steak",
+                    "1/ fresh parsley"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 5,
+                "isFavorite": false
+            }
+        ]
     },
     {
         "id": 6,
         "name": "Sara Lee",
+        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
         "yearsOfExperience": 9,
-        "numberOfRecipes": 45,
+        "descriptions": "Sara Lee is a seasoned chef with over 9 years of experience. She has a passion for creating unique dishes that incorporate fresh, local ingredients.",
+        "numberOfRecipes": 30,
         "likes": 95,
-        "image": "chef6.jpg"
+        "image": "https://img.freepik.com/free-photo/looking-up-young-female-cook-wearing-chef-uniform-points-finger-up-isolated-pink-wall-with-copy-space_141793-36884.jpg?w=900&t=st=1683027772~exp=1683028372~hmac=938e739d9ce64c648e0a7f12cace2752a4506564a5b3b41b2573ea62fbeb47f3",
+        "recipes": [
+            {
+                "id": 1,
+                "chefId": 6,
+                "name": "Salmon black",
+                "ingredients": [
+                    "1/4 tsp. black pepper"
+                ],
+                "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter.  Serve with extra lemon butter sauce, if desired.",
+                "rating": 5,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "chefId": 6,
+                "name": "Pesto Pasta with Roasted Tomatoes",
+                "ingredients": [
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 3.5,
+                "isFavorite": true
+            },
+            {
+                "id": 3,
+                "chefId": 6,
+                "name": "Steak flank",
+                "ingredients": [
+                    "1 lb. flank steak",
+                    "1/ fresh parsley"
+                ],
+                "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
+                "rating": 3.5,
+                "isFavorite": true
+            }
+        ]
     }
 ]
