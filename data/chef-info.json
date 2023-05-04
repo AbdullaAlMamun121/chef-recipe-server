@@ -12,6 +12,7 @@
                 "id": 1,
                 "chefId": 1,
                 "name": "Grilled Salmon with Lemon Butter",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "1 lb. salmon fillet",
                     "2 tbsp. butter",
@@ -28,6 +29,7 @@
                 "id": 2,
                 "chefId": 1,
                 "name": "Pesto Pasta with Roasted Tomatoes",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "8 oz. pasta",
                     "1 pint cherry tomatoes",
@@ -44,10 +46,17 @@
                 "id": 3,
                 "chefId": 1,
                 "name": "Steak with Chimichurri Sauce",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "1 lb. flank steak",
                     "1 cup fresh parsley leaves",
-                    "1/ fresh parsley"
+                    "1/ fresh parsley",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
                 "rating": 3.5,
@@ -68,10 +77,17 @@
                 "id": 1,
                 "chefId": 2,
                 "name": "Grilled Salmon with Lemon Butter",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "1 lb. salmon fillet",
                     "2 tbsp. butter",
-                    "2 tbsp. lemon juice"
+                    "2 tbsp. lemon juice",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter. Stir in lemon juice, garlic, salt, and pepper. \n3. Brush salmon with butter mixture. \n4.",
                 "rating": 5,
@@ -81,11 +97,18 @@
                 "id": 2,
                 "chefId": 2,
                 "name": "Pesto Pasta with Roasted Tomatoes",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "8 oz. pasta",
                     "1 pint cherry tomatoes",
                     "2 cloves garlic, minced",
-                    "1/4 cup pesto"
+                    "1/4 cup pesto",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes for 20-25 minutes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside. \n5. In a large skillet, heat 1 tbsp. olive oil over medium heat.",
                 "rating": 4,
@@ -95,10 +118,17 @@
                 "id": 3,
                 "chefId": 2,
                 "name": "Steak with Chimichurri Sauce",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "1 lb. flank steak",
                     "1 cup fresh parsley leaves",
-                    "1/ fresh parsley"
+                    "1/ fresh parsley",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
                 "rating": 3.5,
@@ -119,11 +149,18 @@
                 "id": 1,
                 "chefId": 3,
                 "name": "Grilled Salmon",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "2 tbsp. lemon juice",
                     "1 clove garlic, minced",
                     "1/4 tsp. salt",
-                    "1/4 tsp. black pepper"
+                    "1/4 tsp. black pepper",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter. Stir in lemon juice, garlic, salt, and pepper.\n5. Serve with extra lemon butter sauce, if desired.",
                 "rating": 4.5,
@@ -133,6 +170,7 @@
                 "id": 2,
                 "chefId": 3,
                 "name": "Pesto Pasta with Roasted Tomatoes",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "8 oz. pasta",
                     "1 pint cherry tomatoes",
@@ -149,10 +187,17 @@
                 "id": 3,
                 "chefId": 3,
                 "name": "Steak",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "1 lb. flank steak",
                     "1 cup fresh parsley leaves",
-                    "1/ fresh parsley"
+                    "1/ fresh parsley",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
                 "rating": 5,
@@ -174,9 +219,16 @@
                 "id": 1,
                 "chefId": 4,
                 "name": "Salmon",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "2 tbsp. lemon juice",
-                    "1/4 tsp. black pepper"
+                    "1/4 tsp. black pepper",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter. Stir in lemon juice, garlic, salt, and pepper.\n5. Serve with extra lemon butter sauce, if desired.",
                 "rating": 5,
@@ -186,6 +238,7 @@
                 "id": 2,
                 "chefId": 4,
                 "name": "Pesto Pasta with Roasted Tomatoes",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "8 oz. pasta",
                     "1 pint cherry tomatoes",
@@ -202,10 +255,17 @@
                 "id": 3,
                 "chefId": 4,
                 "name": "Steak",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "1 lb. flank steak",
                     "1 cup fresh parsley leaves",
-                    "1/ fresh parsley"
+                    "1/ fresh parsley",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
                 "rating": 4,
@@ -227,9 +287,16 @@
                 "id": 1,
                 "chefId": 5,
                 "name": "Salmon",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "2 tbsp. lemon juice",
-                    "1/4 tsp. black pepper"
+                    "1/4 tsp. black pepper",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter.  Serve with extra lemon butter sauce, if desired.",
                 "rating": 5,
@@ -239,9 +306,16 @@
                 "id": 2,
                 "chefId": 5,
                 "name": "Pesto Pasta with Roasted Tomatoes",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "8 oz. pasta",
                     "1 pint cherry tomatoes",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
                     "1 lb. salmon fillet",
                     "2 tbsp. butter"
                 ],
@@ -253,9 +327,16 @@
                 "id": 3,
                 "chefId": 5,
                 "name": "Steak flank",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "1 lb. flank steak",
-                    "1/ fresh parsley"
+                    "1/ fresh parsley",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
                 "rating": 5,
@@ -277,8 +358,15 @@
                 "id": 1,
                 "chefId": 6,
                 "name": "Salmon black",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
-                    "1/4 tsp. black pepper"
+                    "1/4 tsp. black pepper",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. In a small saucepan, melt butter.  Serve with extra lemon butter sauce, if desired.",
                 "rating": 5,
@@ -288,9 +376,16 @@
                 "id": 2,
                 "chefId": 6,
                 "name": "Pesto Pasta with Roasted Tomatoes",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "8 oz. pasta",
                     "1 pint cherry tomatoes",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
                     "1 lb. salmon fillet",
                     "2 tbsp. butter"
                 ],
@@ -302,9 +397,16 @@
                 "id": 3,
                 "chefId": 6,
                 "name": "Steak flank",
+                "food_image":"https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1060&t=st=1683134210~exp=1683134810~hmac=6773b8378783395f7f1da213ad5f73e96b686e352b5714fdc221db88a25a4ad4",
                 "ingredients": [
                     "1 lb. flank steak",
-                    "1/ fresh parsley"
+                    "1/ fresh parsley",
+                    "8 oz. pasta",
+                    "1 pint cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pesto",
+                    "1 lb. salmon fillet",
+                    "2 tbsp. butter"
                 ],
                 "cookingMethod": "1. Preheat oven to 400°F. \n2. Toss cherry tomatoes with 1 tbsp. olive oil and season with salt and pepper. Spread out in a single layer on a baking sheet. \n3. Roast tomatoes, or until tender and slightly caramelized. \n4. Cook pasta according to package instructions. Drain and set aside.",
                 "rating": 3.5,
